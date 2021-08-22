@@ -1,0 +1,40 @@
+a:link{
+    color:blue
+}
+a:visited{
+    color:blue
+}
+a:hover{
+    color:green
+}
+a:active{
+    color:red
+}
+nav{
+    background-color:pink;
+    text-align: center;
+    
+}
+h1{
+    font-family: Roboto, Helvetica, Arial, sans-serif;
+    font-size: 32px;
+}
+img{
+    height: 300px;
+    width: 200px;
+}
+#giatien{
+    background-color:red ;
+    color:white;
+    font-size:37px;
+    line-height:50px
+}
+#sale{
+    font-size:20px
+}
+body{
+    background: cornflowerblue;
+}
+ul{
+    float:right
+}
