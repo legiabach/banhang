@@ -1,0 +1,22 @@
+body{
+    background: cornflowerblue;
+}
+a:link{
+    color:blue
+}
+a:visited{
+    color:blue
+}
+a:hover{
+    color:green
+}
+a:active{
+    color:red
+}
+nav{
+    background-color:pink;
+    text-align: center;
+}
+a{
+    font-size: 30px;
+}
