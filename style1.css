@@ -1,5 +1,6 @@
 a:link{
-    color:blue
+    color:blue;
+    text-decoration: none;
 }
 a:visited{
     color:blue
@@ -11,7 +12,7 @@ a:active{
     color:red
 }
 nav{
-    background-color:pink;
+    background-color:aquamarine ;
     text-align: center;
     
 }
@@ -33,11 +34,38 @@ img{
     font-size:20px
 }
 body{
-    background: cornflowerblue;
+    background: white;
 }
 ul{
     float:right
 }
 a{
     font-size: 30px;
+}
+.mua{
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    font-size: 16px;
+    background:rgb(231, 28, 28);
+    border-radius: 50px;
+    transition-duration: 0.7s;
+}
+.mua:hover{
+    background: orangered;
+}
+.tragop{
+    border-radius: 50px ;
+    border: solid red;
+    color:red;
+    background: white;
+    padding: 15px 32px;
+    transition-duration: 0.7s;
+}
+.tragop:hover{
+    background: red;
+    color:white
+}
+header{
+    background: skyblue;
 }
